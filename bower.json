@@ -1,0 +1,15 @@
+{
+  "name": "vue-wow2",
+  "homepage": "https://github.com/nguyenthanh1995/vue-wow2",
+  "description": "Reveal CSS animation as you scroll down a page for Vue",
+  "main": "dist/wow.js",
+  "keywords": [
+    "scroll",
+    "animation",
+    "reveal",
+    "vue",
+    "wow",
+    "vue-wow"
+  ],
+  "license": "MIT"
+}
